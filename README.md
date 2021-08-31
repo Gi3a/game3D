@@ -18,12 +18,7 @@ or
 ## You can now create your own map:
 | Object | Code |
 |----------------|:---------:|----------------:|
-| По левому краю | По центру | По правому краю |
-| текст | текст | текст |
-
-| Object | Code |
-|--------------------------------:|
-| 1 | wall |
-| 0 | floor |
-| 2 | sprite |
-| N/E/W/S | player initial position + orientation |
+| 0 | wall | По правому краю |
+| 1 | floor | текст |
+| 2 | sprite | текст |
+| N/E/W/S | player initial position + orientation | текст |
