@@ -16,9 +16,9 @@ or
 ```./cub3D maps/midi.cub -s (to make screenshot)```
 
 ## You can now create your own map:
-| Object | Some | Code |
-|----------------|:---------:|----------------:|
-| 0 | wall | По правому краю |
-| 1 | floor | текст |
-| 2 | sprite | текст |
-| N/E/W/S | player initial position + orientation | текст |
+| Object | Code |
+|----------------|:-----------------:|
+| 0 | wall |
+| 1 | floor |
+| 2 | sprite |
+| N/E/W/S | player initial position + orientation |
