@@ -17,7 +17,7 @@ or
 
 ## You can now create your own map:
 | Object | Code |
-|----------------|:-----------------:|
+|:----------------:|:-----------------:|
 | 0 | wall |
 | 1 | floor |
 | 2 | sprite |
