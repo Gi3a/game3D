@@ -16,12 +16,13 @@ or
 ```./cub3D maps/midi.cub -s (to make screenshot)```
 
 ## You can now create your own map:
-| LEFT | CENTER | RIGHT |
+| Object | Code |
 |----------------|:---------:|----------------:|
 | По левому краю | По центру | По правому краю |
 | текст | текст | текст |
 
 | Object | Code |
+|--------------------------------:|
 | 1 | wall |
 | 0 | floor |
 | 2 | sprite |
